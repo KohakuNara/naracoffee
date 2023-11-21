@@ -82,16 +82,6 @@ p{
     max-width: 50%;
 }
 
-.title-img::before{
-    position: absolute;
-    content: '';
-    left: 0;
-    top: 50px;
-    width: 100%;
-    height: 83.4%;
-    background-color: rgba(0,0,0,.5);
-}
-
 .menu-box{
     background-color: #B3B3B3;
     max-width: 100%;
